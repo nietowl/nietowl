@@ -4,4 +4,4 @@ Hi there! I'm @nietowl, a passionate hacker and security enthusiast. I'm current
 nietowl/nietowl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![DALL·E 2024-08-31 23 40 53 - A dynamic collage in a dark-themed background representing the world of cybersecurity research, dark web hunting, OSINT, and threat mitigation  Icons ](https://github.com/user-attachments/assets/1b0a9c56-86c9-47f3-9428-8741767903c8)
+![DALL·E 2024-08-31 23 48 19 - A dynamic cybersecurity-themed collage in a dark, tech-style background with symbols of cybersecurity, dark web, OSINT, and threat intelligence surrou](https://github.com/user-attachments/assets/f5329f7a-a260-49cc-8483-cfa189173291)
