@@ -4,9 +4,7 @@
   A passionate hacker and security enthusiast. I'm currently learning Go and looking to collaborate on "Dark Web Hunting" projects/freelancing. If you'd like to connect and work together, reach me on <a href="https://twitter.com/Ni3tOwl">Twitter</a> or <a href="https://www.linkedin.com/in/pranav-darwai/">LinkedIn</a>. I'm always open to new opportunities and challenges!
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nietowl&label=Profile%20views&color=0e75b6&style=flat" alt="nietowl" />
-</p>
+
 
 ---
 
