@@ -63,7 +63,7 @@
 
 <div style="clear: both;"></div>
 
-<p>
+<p align="center">
   <a href="https://www.buymeacoffee.com/nietowl">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="float: left;" />
   </a>
