@@ -17,7 +17,6 @@
 </p>
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/nietowl?tab=repositories)
-- 📫 How to reach me: Through GitHub
 
 ### Skills and Tools:
 
