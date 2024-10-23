@@ -21,30 +21,60 @@
 
 ### Languages and Tools:
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
+### Skills and Tools:
+
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"/>
 </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+</a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
+</a>
+<a href="https://mitre.org" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Mitre_att%26ck_logo.png" alt="MITRE ATT&CK" width="40" height="40"/>
+</a>
+<a href="https://www.vmware.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" alt="VMware" width="40" height="40"/>
+</a>
+<a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Virtualbox_logo.png/640px-Virtualbox_logo.png" alt="VirtualBox" width="40" height="40"/>
+</a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Machine Learning (TensorFlow)" width="40" height="40"/>
+</a>
+<a href="https://www.cisco.com/c/en/us/products/security/network-security/index.html" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Cisco_logo_blue_2016.svg" alt="Networking (Cisco)" width="40" height="40"/>
+</a>
+<a href="https://www.osintcurious.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/OSINT.jpg" alt="OSINT" width="40" height="40"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/Wireless_security" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/wifi/wifi-icon.svg" alt="Wireless Security" width="40" height="40"/>
+</a>
+<a href="https://attack.mitre.org/tactics/TA0007/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tactics_threat_model.svg/1200px-Tactics_threat_model.svg.png" alt="TTP Tracking" width="40" height="40"/>
+</a>
+<a href="https://www.darkwebnews.com" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Dark_Web_icon.svg/600px-Dark_Web_icon.svg.png" alt="Dark Web Monitoring" width="40" height="40"/>
+</a>
+<a href="https://www.automationanywhere.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/automationanywhere/automationanywhere-icon.svg" alt="Automation" width="40" height="40"/>
+</a>
+<a href="https://www.crowdstrike.com/cybersecurity-101/threat-intelligence/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/crowdstrike/crowdstrike-icon.svg" alt="Threat Intelligence" width="40" height="40"/>
+</a>
+<a href="https://www.project-management.com" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Project-management-logo.png" alt="Project Design" width="40" height="40"/>
+</a>
+
 
 ---
 
