@@ -21,8 +21,6 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-- 🌱 I'm currently learning **Cloud Technologies and Advanced Java**
-- 💻 I specialize in **Java, Python, and Web Development**
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/nietowl?tab=repositories)
 - 📫 How to reach me: Through GitHub
 
