@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @nietowl</h1>
 
 <p align="center">
-  A passionate hacker and security enthusiast. I'm currently learning Go and looking to collaborate on "Dark Web Hunting" projects. If you'd like to connect and work together, reach me on <a href="https://twitter.com/Ni3tOwl">Twitter</a> or <a href="https://www.linkedin.com/in/pranav-darwai/">LinkedIn</a>. I'm always open to new opportunities and challenges!
+  A passionate hacker and security enthusiast. I'm currently learning Go and looking to collaborate on "Dark Web Hunting" projects/freelancing. If you'd like to connect and work together, reach me on <a href="https://twitter.com/Ni3tOwl">Twitter</a> or <a href="https://www.linkedin.com/in/pranav-darwai/">LinkedIn</a>. I'm always open to new opportunities and challenges!
 </p>
 
 <p align="center">
