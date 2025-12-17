@@ -27,6 +27,27 @@
 <!-- Activity Graph - Hacker Theme -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nietowl&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&area_color=00FF00&hide_border=true&custom_title=🔓%20BREACH%20ACTIVITY%20LOG" />
 
+<!-- GitHub Trophies - Matrix Theme -->
+<img src="https://github-profile-trophy.vercel.app/?username=nietowl&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+<!-- Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nietowl&theme=radical" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nietowl&theme=radical&utcOffset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nietowl&theme=radical" />
+
+<!-- Metrics Dashboard -->
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                    📡 REAL-TIME THREAT METRICS                      │
+├─────────────────────────────────────────────────────────────────────┤
+│  ◉ COMMITS      ████████████████████░░░░  Active                   │
+│  ◉ PULL REQ     ██████████████░░░░░░░░░░  Merging                  │
+│  ◉ ISSUES       ████████████████████████  Hunting                  │
+│  ◉ CODE REVIEW  ██████████████████░░░░░░  Analyzing                │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
 </div>
 
 ---
