@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Matrix-style header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:00FF00&height=200&section=header&text=NIETOWL&fontSize=80&fontColor=00FF00&animation=twinkling&fontAlignY=35&desc=[ ACCESSING RESTRICTED SYSTEM... ]&descSize=20&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF00&height=200&section=header&text=NIETOWL&fontSize=80&fontColor=00FF00&animation=twinkling&fontAlignY=35&desc=%5B%20ACCESSING%20RESTRICTED%20SYSTEM...%20%5D&descSize=18&descAlignY=55&descColor=00FF00"/>
 
 <!-- Glitch typing effect -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=50&lines=%3E+DARKWEB+HUNTER+%7C+THREAT+INTELLIGENCE;%3E+PENETRATION+TESTER+%7C+RED+TEAM+OPS;%3E+MALWARE+ANALYST+%7C+OSINT+SPECIALIST;%3E+SYSTEM+COMPROMISED...+WELCOME.)](https://git.io/typing-svg)
