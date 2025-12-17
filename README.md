@@ -100,6 +100,12 @@ MISSION: Infiltrate. Analyze. Secure.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nietowl&show_icons=true&theme=chartreuse-dark&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=000000&hide_border=true&border_color=00FF00"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nietowl&layout=compact&theme=chartreuse-dark&title_color=00FF00&text_color=00FF00&bg_color=000000&hide_border=true"/>
 
+```
+⚠️  DISCLAIMER: What you see here is just the tip of the iceberg.
+    The critical tools and research remain in private repositories.
+    Some things are better left in the shadows... 🔒
+```
+
 </div>
 
 ---
