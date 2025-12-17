@@ -100,26 +100,6 @@ MISSION: Infiltrate. Analyze. Secure.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nietowl&show_icons=true&theme=chartreuse-dark&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=000000&hide_border=true&border_color=00FF00"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nietowl&layout=compact&theme=chartreuse-dark&title_color=00FF00&text_color=00FF00&bg_color=000000&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nietowl&theme=dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=FF0000&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## `> ls -la /exploits/`
-
-<div align="center">
-
-```
-drwxr-xr-x  root root  4096  FEATURED REPOSITORIES
-```
-
-[![TeleHuntX](https://github-readme-stats.vercel.app/api/pin/?username=nietowl&repo=TeleHuntX&theme=chartreuse-dark&bg_color=000000&hide_border=true&title_color=00FF00&text_color=00FF00&icon_color=00FF00)](https://github.com/nietowl/TeleHuntX)
-[![wifi_deauther](https://github-readme-stats.vercel.app/api/pin/?username=nietowl&repo=wifi_deauther_esp8266&theme=chartreuse-dark&bg_color=000000&hide_border=true&title_color=00FF00&text_color=00FF00&icon_color=00FF00)](https://github.com/nietowl/wifi_deauther_esp8266)
-
-[![BLUR_DETECTION](https://github-readme-stats.vercel.app/api/pin/?username=nietowl&repo=BLUR_DETECTION_bot&theme=chartreuse-dark&bg_color=000000&hide_border=true&title_color=00FF00&text_color=00FF00&icon_color=00FF00)](https://github.com/nietowl/BLUR_DETECTION_bot)
-[![Keylogger](https://github-readme-stats.vercel.app/api/pin/?username=nietowl&repo=Advance_key_logger_malware&theme=chartreuse-dark&bg_color=000000&hide_border=true&title_color=00FF00&text_color=00FF00&icon_color=00FF00)](https://github.com/nietowl/Advance_key_logger_malware)
-
 </div>
 
 ---
